@@ -1,0 +1,37 @@
+es:
+  admin_js:
+    admin:
+      navigation:
+        title: "Navegación"
+        plugin:
+          branding: "Branding"
+      menu_links:
+        title: "Enlaces en el Menú"
+        new: "Nuevo Enlace"
+        name: "Nombre"
+        icon: "Icono"
+        url: "Url"
+        save: "Guardar"
+        cancel: "Cancelar"
+        edit: "Editar"
+        delete: "Eliminar"
+        delete_confirm: "¿Estás seguro que quieres eliminar el enlace?"
+        visible: "Visible"
+        enabled:
+          main: "Principal"
+          hamburger:
+            general: "Botón del menú general"
+            footer: "Botón del menu pie de página"
+          branding:
+            general: "Branding general"
+            icon: "Branding icon"
+        main:
+          menu: "Menú Principal"
+        hamburger:
+          menu: "Botón del menú"
+          general: "Enlaces Generales"
+          footer: "Enlaces de Pie de Página"
+        branding:
+          menu: "Branding menu"
+          general: "Enlaces Generales"
+          icon: "Icono de Enlaces"
